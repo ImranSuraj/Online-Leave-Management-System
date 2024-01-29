@@ -1,0 +1,22 @@
+**Log on to realsoucrecode.com for more projects!***
+
+**Database Name: simpleave**
+
+**Developed by realsoucrecode**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Email   : admin@gmail.com
+Password: Password@123
+
+**Employee Login**
+
+Email   : liam@gmail.com
+Password: password
+
+
+
+
